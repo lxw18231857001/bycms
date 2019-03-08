@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ThinkPHP 5.0
 ===============
 
@@ -146,6 +145,5 @@ xxx.com/admin.php
  
 贝云cms内容管理系统 更新日志：
 增加api
-https://www.cnblogs.com/lxwphp/p/10495766.html
+参考地址： https://www.cnblogs.com/lxwphp/p/10495766.html
 
->>>>>>> b15d5c69490153caaa7bf124fe4d74396a280a72
